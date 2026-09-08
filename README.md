@@ -15,3 +15,6 @@ To prepare for an upcoming executive review in a few days:
 1. **Data Integration**: Aggregate disparate online datasets (forestation statistics, national surface areas, and regional groupings) into a central database.
 2. **SQL Investigation**: Query the database to extract insights into shifts across the 1990–2016 timeline.
 3. **Leadership Deliverable**: Draft and publish a comprehensive narrative briefing written in complete sentences to guide executive decision-making.
+
+
+https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=select+*+from+ps&format=csv
